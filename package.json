@@ -1,0 +1,23 @@
+{
+  "name": "webnapp",
+  "version": "1.0.0",
+  "description": "website and app for our driver monitoring system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankshah998/WebApp-using-React.git"
+  },
+  "author": "priyankshah998",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankshah998/WebApp-using-React/issues"
+  },
+  "homepage": "https://github.com/priyankshah998/WebApp-using-React#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
